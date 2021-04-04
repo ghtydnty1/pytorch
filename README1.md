@@ -1,8 +1,18 @@
 ## 2021.04.04 
  + pytorch 유튜브공부
+   
    tensor의 matrix크기를 정하는것이 중요함
+   
+<br>
+   
    2d >> |t| = (batch size, dim ) #세로, 가로
+
+<br>
+
    3d >> (Typical Computer Vision)>> |t| = (batch size, width, height ) #높이, 가로, 세로
+
+<br>
+
    3d >> (Typical Natural Language Processing)>> |t| = (batch size, length, dim) #높이, 가로, 세로
    
 ```buildoutcfg
